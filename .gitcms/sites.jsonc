@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "sites": [
+    {
+      "key": "cloudaccountingreality-com",
+      "display_name": "Cloudaccountingreality Com",
+      "website_url": "https://cloudaccountingreality-com.jamdesk.app/",
+      "root_path": ""
+    }
+  ]
+}
