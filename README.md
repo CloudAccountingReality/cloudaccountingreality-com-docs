@@ -1,14 +1,19 @@
+---
+title: License
+---
+
+
 # Jamdesk Starter Template
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+​[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)​
 
 The official starter template for [Jamdesk](https://jamdesk.com) documentation sites. Clone this repository to create beautiful, professional documentation in minutes.
 
-**[Documentation](https://jamdesk.com/docs)** · **[Get Started](https://jamdesk.com/docs/quickstart)** · **[Dashboard](https://dashboard.jamdesk.com)**
+​[**Documentation**](https://jamdesk.com/docs) · [**Get Started**](https://jamdesk.com/docs/quickstart) · [**Dashboard**](https://dashboard.jamdesk.com)​
 
 ## What is Jamdesk?
 
-[Jamdesk](https://jamdesk.com) is a modern documentation platform that transforms MDX (Markdown + React components) into polished, production-ready documentation websites.
+​[Jamdesk](https://jamdesk.com) is a modern documentation platform that transforms MDX (Markdown + React components) into polished, production-ready documentation websites.
 
 **Why teams choose Jamdesk:**
 - **Write in MDX** - Markdown with React components for interactive docs
@@ -43,7 +48,7 @@ starter-docs/
     └── pages.mdx          # Page structure
 ```
 
-**Theme:** This template uses the **Jam** theme - a clean, modern design with purple accent colors. [See all themes →](https://jamdesk.com/docs/customization/theming)
+**Theme:** This template uses the **Jam** theme - a clean, modern design with purple accent colors. [See all themes →](https://jamdesk.com/docs/customization/theming)​
 
 ## Quick Start
 
@@ -135,7 +140,7 @@ This is regular Markdown with **bold** and *italic* text.
 </Steps>
 ```
 
-**Available components:** Cards, Tabs, Accordions, Steps, Callouts, Code Groups, and [25+ more →](https://jamdesk.com/docs/components/overview)
+**Available components:** Cards, Tabs, Accordions, Steps, Callouts, Code Groups, and [25+ more →](https://jamdesk.com/docs/components/overview)​
 
 ## Local Development
 
@@ -168,7 +173,6 @@ jamdesk broken-links
 ## Deploy
 
 Jamdesk handles deployment automatically:
-
 1. Push changes to your connected GitHub repository
 2. Jamdesk builds your site (typically under 30 seconds)
 3. Your docs are live on your custom domain or `yoursite.jamdesk.app`
