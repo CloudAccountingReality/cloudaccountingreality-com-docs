@@ -89,15 +89,6 @@
           "label": "Openapi"
         }
       ]
-    },
-    {
-      "name": "Reality",
-      "git_path": "",
-      "file_extension": ".md",
-      "filename_pattern": "",
-      "label": "Reality Discussion",
-      "description": "A collection of thoughts",
-      "collection_type": "grouped"
     }
   ]
 }
