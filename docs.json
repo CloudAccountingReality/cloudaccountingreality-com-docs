@@ -49,6 +49,7 @@
           {
             "group": "Writing Content",
             "icon": "pen",
+            "reality": "plug",
             "pages": [
               "writing/pages",
               "writing/components",
