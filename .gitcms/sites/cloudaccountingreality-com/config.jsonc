@@ -89,6 +89,15 @@
           "label": "Openapi"
         }
       ]
+    },
+    {
+      "name": "Reality",
+      "git_path": "/reality",
+      "file_extension": ".mdx",
+      "filename_pattern": "",
+      "label": "Reality Discussion",
+      "description": "A collection of discussions",
+      "collection_type": "grouped"
     }
   ]
 }
